@@ -1,0 +1,17 @@
+.word:hover {
+  background-color: chartreuse;
+}
+
+.innerText {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  line-height: 2;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.tlsWord {
+  background-color: tomato;
+  position: absolute;
+}
