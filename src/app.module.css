@@ -112,6 +112,7 @@
       "t"
       "a"
       "c";
+    overflow: hidden;
   }
   .title {
     font-size: 1rem;
@@ -119,10 +120,10 @@
     background-color: #3a2e33;
   }
   .article {
-    border-radius: 2rem;
-    margin: 0 4rem 1rem 4rem;
-    box-shadow: 4px 4px 12px #5f5f5f;
+    border-radius: 0 0 2rem 2rem;
+    padding: 4rem;
     background-color: #ededed;
+    overflow: hidden;
   }
   .wave {
     display: none;
@@ -130,8 +131,14 @@
   .divider {
     display: block;
     position: absolute;
+    z-index: 1;
     top: 100%;
     left: 0;
     margin-top: -1px;
+  }
+}
+@media (max-height: 500px) {
+  .divider {
+    display: none;
   }
 }
