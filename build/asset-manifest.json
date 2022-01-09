@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbc49617.css",
-    "main.js": "/static/js/main.fa3476ce.js",
-    "static/media/wave.svg": "/static/media/wave.0337cd9cc411aa536905ea34731fe7a3.svg",
-    "index.html": "/index.html",
-    "static/media/divider.svg": "/static/media/divider.eb76fd397cc30d05e6047f29e54fdf07.svg",
-    "main.dbc49617.css.map": "/static/css/main.dbc49617.css.map",
-    "main.fa3476ce.js.map": "/static/js/main.fa3476ce.js.map"
+    "main.css": "/daily-reading-pro/static/css/main.10a25ab6.css",
+    "main.js": "/daily-reading-pro/static/js/main.149c6284.js",
+    "static/media/wave.svg": "/daily-reading-pro/static/media/wave.0337cd9cc411aa536905ea34731fe7a3.svg",
+    "index.html": "/daily-reading-pro/index.html",
+    "static/media/divider.svg": "/daily-reading-pro/static/media/divider.eb76fd397cc30d05e6047f29e54fdf07.svg",
+    "main.10a25ab6.css.map": "/daily-reading-pro/static/css/main.10a25ab6.css.map",
+    "main.149c6284.js.map": "/daily-reading-pro/static/js/main.149c6284.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc49617.css",
-    "static/js/main.fa3476ce.js"
+    "static/css/main.10a25ab6.css",
+    "static/js/main.149c6284.js"
   ]
 }
